@@ -1,5 +1,6 @@
 require 'pry'
 # Write your code here!
+<<<<<<< HEAD
 def game_hash
   {
     home: {
@@ -126,3 +127,9 @@ def game_hash
     }
   }
 end
+=======
+def game_hash 
+  {}
+end 
+
+>>>>>>> 4ba4563f61c347d323cbc9b55c0b21d40f7a1bb1
